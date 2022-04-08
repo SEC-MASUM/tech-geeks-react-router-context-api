@@ -5,7 +5,7 @@ import "./Navbar.css";
 
 const Navbar = () => {
   const { pathname } = useLocation();
-  console.log(pathname);
+//   console.log(pathname);
   return (
     <nav
       style={
